@@ -1,0 +1,33 @@
+.banner {
+  /* background: linear-gradient(10deg, #fdfdff 0%, #ffffff 100%) !important;  */
+  /* background-color: #ffffff;  */
+  color: #302f53 !important;
+  padding: 15px 20px !important;
+  text-align: center;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08), 0 4px 10px rgba(0, 0, 0, 0.04) !important;
+  border-radius: 4px;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px; 
+}
+
+.logo {
+  height: 40px; 
+  width: auto;
+}
+
+.title {
+  margin: 0;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.tagline {
+  margin: 6px 0 0;
+  font-size: 15px;
+  font-weight: 550;
+}

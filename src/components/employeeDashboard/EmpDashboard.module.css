@@ -1,0 +1,31 @@
+.container{
+  padding: 24px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.grid_container{
+  display: flex;
+  
+  flex-wrap: wrap;
+}
+
+.grid_item{
+  padding: 12px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+@media(min-width: 768px){
+  .grid_item {
+    width: 50%;
+  }
+}
+
+.loader_box{
+  display: flex;
+  justify-content: center;
+
+  align-items: center;
+  min-height: 200px;
+}
