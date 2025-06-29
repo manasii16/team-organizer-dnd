@@ -42,3 +42,35 @@
 - Hover on a card: adds shadow + animation
 - Dragging: creates a smooth transition between pool & team
 - Avatar fallback: MUI auto-fallback when image not available
+<<<<<<< HEAD
+=======
+
+
+## Reference Links
+
+This project was developed using guidance and inspiration from the following libraries and documentation:
+
+### Drag and Drop – @hello-pangea/dnd
+
+Library used: @hello-pangea/dnd
+
+### Official Storybook examples:
+
+Multi Drag Example
+
+Based on: react-beautiful-dnd (original project)
+
+### API Docs – react-beautiful-dnd
+
+### Tutorial used:
+"How to implement a simple drag and drop using Create React App and React Beautiful DnD"
+
+## State Management – Redux Toolkit
+
+### Official Redux API Docs:
+- Redux: createStore API
+- Redux Toolkit Thunk:
+  Redux Toolkit: createAsyncThunk
+
+These resources were instrumental in implementing the asynchronous employee data fetching and drag-and-drop interactions across employee pool and team sections.
+>>>>>>> 716de70 (Add component-level README file)
