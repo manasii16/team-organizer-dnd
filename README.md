@@ -2,7 +2,8 @@
 
 This project is a Team Organizer that helps you manage a list of employees. You can easily drag and drop employees from a pool to your team, and vice versa. It’s built with React, Redux Toolkit, and Material UI, and supports smooth drag-and-drop interaction using @hello-pangea/dnd.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/b9bf916b-e981-4962-a0f3-c21d52419f44)
+
 ---
 
 ## Tech Stack / Libraries Used
