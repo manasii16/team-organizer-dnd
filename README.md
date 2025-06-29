@@ -1,4 +1,4 @@
-# Team Organizer – React + Redux + MUI + DnD
+# Team Organizer(React, Redux, MUI, DnD)
 
 This project is a Team Organizer that helps you manage a list of employees. You can easily drag and drop employees from a pool to your team, and vice versa. It’s built with React, Redux Toolkit, and Material UI, and supports smooth drag-and-drop interaction using @hello-pangea/dnd.
 
