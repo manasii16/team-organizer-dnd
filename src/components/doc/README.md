@@ -33,7 +33,7 @@
 
 - Uses `axios.get()` to fetch from:
   ```env
-  VITE_API_URL=https://randomuser.me/api/?results=25write ```
+  VITE_API_URL=https://randomuser.me/api/?results=25
 
 ---
 
