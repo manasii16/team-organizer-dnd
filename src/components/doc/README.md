@@ -42,9 +42,8 @@
 - Hover on a card: adds shadow + animation
 - Dragging: creates a smooth transition between pool & team
 - Avatar fallback: MUI auto-fallback when image not available
-<<<<<<< HEAD
-=======
 
+---
 
 ## Reference Links
 
@@ -73,4 +72,3 @@ Based on: react-beautiful-dnd (original project)
   Redux Toolkit: createAsyncThunk
 
 These resources were instrumental in implementing the asynchronous employee data fetching and drag-and-drop interactions across employee pool and team sections.
->>>>>>> 716de70 (Add component-level README file)
