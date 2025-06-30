@@ -55,7 +55,7 @@ Library used: @hello-pangea/dnd
 
 ### Official Storybook examples:
 
-Multi Drag Example
+Multi Drag Example: https://dnd.hellopangea.com/?path=/story/examples-multi-drag--pattern
 
 Based on: react-beautiful-dnd (original project)
 
@@ -67,8 +67,7 @@ Based on: react-beautiful-dnd (original project)
 ## State Management – Redux Toolkit
 
 ### Official Redux API Docs:
-- Redux: createStore API
-- Redux Toolkit Thunk:
-  Redux Toolkit: createAsyncThunk
+- Redux: createStore API :https://redux.js.org/api/createstore
+  Redux Toolkit: createAsyncThunk: https://redux-toolkit.js.org/api/createAsyncThunk
 
 These resources were instrumental in implementing the asynchronous employee data fetching and drag-and-drop interactions across employee pool and team sections.
