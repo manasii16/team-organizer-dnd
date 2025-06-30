@@ -68,6 +68,7 @@ Based on: react-beautiful-dnd (original project)
 
 ### Official Redux API Docs:
 - Redux: createStore API :https://redux.js.org/api/createstore
-  Redux Toolkit: createAsyncThunk: https://redux-toolkit.js.org/api/createAsyncThunk
+
+- Redux Toolkit: createAsyncThunk: https://redux-toolkit.js.org/api/createAsyncThunk
 
 These resources were instrumental in implementing the asynchronous employee data fetching and drag-and-drop interactions across employee pool and team sections.
