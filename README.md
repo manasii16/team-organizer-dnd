@@ -34,21 +34,7 @@ This project is a Team Organizer that helps you manage a list of employees. You 
 3. team - employees you’ve selected
 4. The slice handles async fetching of employees and moving items between pool and team
 
-## Getting Started – How to run locally
-1. Clone the project
-   - git clone https://github.com/your-username/team-organizer-dnd.git
-   - cd team-organizer-dnd
 
-2. Install dependencies
-   - npm install
-
-3. Create .env file
-   - VITE_API_URL=https://randomuser.me/api/?results=25
-
-4. Start the development server
-   - npm run dev
-
-Open http://localhost:5173 to view it in the browser.
 
 
 ## What’s next or possible improvements?
