@@ -35,11 +35,3 @@ This project is a Team Organizer that helps you manage a list of employees. You 
 4. The slice handles async fetching of employees and moving items between pool and team
 
 
-
-
-## What’s next or possible improvements?
-
-1. Add the ability to remove people from the team
-2. Store team data in local storage or backend
-3. Add employee role, email, or more info
-4. Add unit testing
